@@ -4,10 +4,9 @@
 main ()
 {
     //pendefinisian tipe variabel
-    int a, c;
-    float e, f, h;
-    //pendefinisian variabel khusus yang akan diakarkan
-    double b, d, g;
+    int a, b, c;
+    //pendefinisian variabel khusus yang akan berhubungan dengan akar
+    double d, e, f, g, h;
     //input variabel untuk mencari hipotenusa
     a = 5;
     b = 3;
